@@ -1,6 +1,6 @@
 ### Hi there, I'm 'Joy' <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-![](https://komarev.com/ghpvc/?username=alifbinhossain&color=brightgreen)
+![Joy ](https://komarev.com/ghpvc)
 
 - 🔭 Focusing on MERN.😎
 - 🌱 I’m currently learning React JS.❤

@@ -1,4 +1,4 @@
-<!-- ### Hi there, I'm JOY <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm JOY <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=alifbinhossain&color=brightgreen)
 
@@ -48,19 +48,13 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://www.linkedin.com/ -->
+[linkedin]: https://www.linkedin.com/
 
-# Hi there.. I'm Hassan Zahar
+<!-- # Hi there.. I'm Hassan Zahar -->
 
-## I'm a Learner and Learner!!
 
-- 🌱 I’m currently learning React.js
-- 👀 I'm interested in Next.js
-- 👯 Looking forward to collaborate with other developers
-- 🥅 2021 Goal: Contribute more to React projects
-- ⚡ Fun fact: I love both tea and coffee, and you?
 
-### Languages and Tools
+<!-- ### Languages and Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -91,4 +85,4 @@
 ![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
 <!-- ![Joy Contribution Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=h-zahar)
-<br /> -->
+<br /> --> -->

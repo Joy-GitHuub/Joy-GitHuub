@@ -78,11 +78,7 @@
 ### GitHub Stats
 
 <!-- ![Hassan Zahar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=h-zahar&count_private=true) -->
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
-![joyGitHuub views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
-
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
 
 <!-- ![Joy Contribution Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=h-zahar)
 <br /> --> -->

@@ -2,8 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=alifbinhossain&color=brightgreen)
 
+## I'm a Learner and Learner!!
+
+
 - 🔭 Focusing on MERN.😎
 - 🌱 I’m currently learning React JS.❤
+- 👀 I'm interested in Next.js
 - 💻 I love to exploring new tech stack and building cool stuffs.
 - 📰 Reading tech documentations whenever possible.
 - 🥅 2021 Goals: Want to be a Fullstack Web Developer.

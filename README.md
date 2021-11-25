@@ -87,5 +87,5 @@
 ![Hassan Zahar's Profile Views](https://gpvc.arturio.dev/h-zahar)<br />
 ![Hassan Zahar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h-zahar)
 ![Hassan Zahar's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=h-zahar)
-![Joy Contribution Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=h-zahar)
-<br />
+<!-- ![Joy Contribution Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=h-zahar)
+<br /> -->
